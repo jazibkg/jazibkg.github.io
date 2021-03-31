@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I graduated with a Diploma in Data Science from BrainStation. I am interested in machine learning modelling and data analytics.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am also an Accounting and Finance graduate and have worked in many industries over the years; prominently in banking, government, entertainment and technology.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jazib.ghory@gmail.com](mailto:jazib.ghory@gmail.com)
