@@ -9,7 +9,7 @@ name: Jazib Ghory
 description: Data Scientist from BrainStation
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://scontent.fyto1-2.fna.fbcdn.net/v/t1.6435-9/155914618_10165020488360357_4111716202804848844_n.jpg?_nc_cat=107&_nc_map=control&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=2S2i8gqaEFIAX-njEdA&_nc_ht=scontent.fyto1-2.fna&oh=61c054aaaf553d03769fd3845db3d6fd&oe=608AF4AF
 
 #
 # Flags below are optional
@@ -19,18 +19,12 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 footer-links:
   dribbble:
   email:
-  facebook:
+  facebook: https://www.facebook.com/jazibkhanghory
   flickr:
-  github: barryclark/jekyll-now
-  instagram:
-  linkedin:
-  pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
-
+  github: https://github.com/jazibkg
+  instagram: https://www.instagram.com/jazibkg/
+  linkedin: https://www.linkedin.com/in/jazibghory/
+  
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
